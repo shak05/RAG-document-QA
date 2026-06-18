@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+uploaded_files/
+
+vector_store/index.faiss
+vector_store/chunks.pkl
+
+.streamlit/
